@@ -11705,7 +11705,7 @@
 - [Any Ruiz](https://github.com/anyruizd)
 - [Nadheera](https://github.com/Nadheera)
 - [Hamidreza Eqbal](https://github.com/HamidrezaEqbal)
-- [ZeloK](https://github.com/ZeloK)
+  [Xedicus](https://github.com/Xedicus)
 - [Pasan Yasara](https://github.com/pasanyasara)
 - [Prashant](https://github.com/prashantjain19)
 - [Jeojhx](https://github.com/jeojhx)
